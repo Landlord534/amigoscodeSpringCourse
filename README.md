@@ -1,1 +1,1 @@
-# amigoscodeSpringCourse
+# Amigoscode Spring Course demo project 
