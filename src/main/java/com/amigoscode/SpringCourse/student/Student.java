@@ -1,5 +1,6 @@
 package com.amigoscode.SpringCourse.student;
 
+//Test comment
 public class Student {
     private final Integer studentId;
     private final String studentName;
